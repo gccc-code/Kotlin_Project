@@ -89,13 +89,3 @@ app/src/main/java/com/student/taskmanager/
 - [ ] Migrate UI to **Jetpack Compose**
 
 ---
-
-## 👤 About the Developer
-
-Built as a portfolio project for an OJT internship application.
-Currently a **2nd year BS Computer Science** student with a focus on Android/Mobile Development.
-
----
-
-*This project intentionally keeps architecture simple and beginner-appropriate,
-while demonstrating clean code practices suitable for an entry-level Android role.*
